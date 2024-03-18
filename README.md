@@ -5,9 +5,9 @@ language.
 
 ## Patterns
 
-  - Builder
-  - Singleton
-  - Functional Options
+  - ✓ Builder
+  - ✓ Singleton
+  - ✓ Functional Options
   - Decorator
   - Facade
   - Iterator
