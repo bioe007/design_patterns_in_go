@@ -8,7 +8,7 @@ language.
   - ✓ Builder
   - ✓ Singleton
   - ✓ Functional Options
-  - Decorator
+  - ✓ Decorator
   - Facade
   - Iterator
   - Observer
